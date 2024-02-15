@@ -1,3 +1,3 @@
 #!/bin/bash
-$ wc -l file echo "Ruta del directorio actual" pwd 
+echo "Ruta del directorio actual" pwd 
 
