@@ -1,0 +1,5 @@
+Tail: muestra la ultima parte de un archivo normalmente las ultimas 10 lineas,
+pero se puede espeficar el numero de
+lineas a mostrar.
+Head: permite ver las primeras lineas de un archivo se puede
+especificar el parametros de lineas a ver.
