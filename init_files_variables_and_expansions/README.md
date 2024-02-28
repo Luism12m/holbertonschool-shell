@@ -1,0 +1,1 @@
+iniciacion de variables,archivos y expansiones,
